@@ -19,4 +19,3 @@ include 'partials/header.view.php';
    </form>
 <?php
 include 'partials/footer.view.php';
-?>
